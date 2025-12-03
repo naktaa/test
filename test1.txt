@@ -2,5 +2,5 @@
 "change" 
 "new" 
 "dfg"
-"amugeona"
+"amugeona""아무거나"
 
